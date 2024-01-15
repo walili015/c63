@@ -12,7 +12,7 @@
     "unityBanner": "Banner_Android",
     "unityInterstitial": "Interstitial_Android",
 
-    "game2": false,
+    "game2": true,
     "modeads": false,
     "IMG1_URL": "",
     "TEXT1_URL": "",
