@@ -16,7 +16,7 @@
     "appURL": "https://play.google.com/store/apps/details?id=XXXXXXXXXXX",
     
     "game2": false,
-    "modeads": true,
+    "modeads": false,
     "IMG1_URL": "https://cross-pan.netlify.app/c72-2.png",
     "TEXT1_URL": "",
     "IMG2_URL": "https://cross-pan.netlify.app/c72-2.png",
