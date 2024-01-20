@@ -1,6 +1,6 @@
 {
   "AdsController": {
-    "adNetwork": "unityadmob",
+    "adNetwork": "unity",
     
     "adMobAppId": "ca-app-pub-3940256099942544~3347511713",
     "admobBanner": "ca-app-pub-3940256099942544/6300978111",
@@ -13,11 +13,11 @@
     "unityBanner": "Banner_Android",
     "unityInterstitial": "Interstitial_Android",
 
-    "appsuspand": true,
+    "appsuspand": false,
     "appURL": "https://play.google.com/store/apps/details?id=XXXXXXXXXXX",
     
-    "game2": true,
-    "modeads": true,
+    "game2": false,
+    "modeads": false,
     "IMG1_URL": "https://cross-pan.netlify.app/c72-2.png",
     "TEXT1_URL": "",
     "IMG2_URL": "https://cross-pan.netlify.app/c72-2.png",
